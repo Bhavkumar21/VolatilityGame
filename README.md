@@ -80,5 +80,4 @@ Found a bug or have an idea for improvement? Feel free to open an issue or submi
 
 This game is for educational purposes only and does not represent real market conditions. Always consult with financial professionals before engaging in actual market making or trading activities.
 
-Happy market making, and may your spreads be ever in your favor!
-```
+Happy market making, and may your spreads be ever in your favor :)
