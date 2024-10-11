@@ -1,4 +1,3 @@
-```markdown
 # Volatility Market Making Game
 
 ## Introduction
