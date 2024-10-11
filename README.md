@@ -21,8 +21,8 @@ In this simulation:
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/volatility-market-making-game.git
-   cd volatility-market-making-game
+   git clone git@github.com:Bhavkumar21/VolatilityGame.git
+   cd VolatilityGame
    ```
 
 2. Install the required dependencies:
